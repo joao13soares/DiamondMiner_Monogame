@@ -1,0 +1,76 @@
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\obj\Debug\Diamond Miner.csprojAssemblyReference.cache
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\obj\Debug\Diamond Miner.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\ArialBlack30.xnb
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\Character1.xnb
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\coin.xnb
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\Crate_Beige.xnb
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\EndPoint_Yellow.xnb
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\ss.xnb
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\Wall_Gray.xnb
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Diamond Miner.exe
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Diamond Miner.pdb
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\obj\Debug\Diamond Miner.csproj.CopyComplete
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\obj\Debug\Diamond Miner.exe
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\obj\Debug\Diamond Miner.pdb
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\level0.txt
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\level1.txt
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\level2.txt
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\level3.txt
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\level4.txt
+C:\Users\João\Documents\Visual Studio 2017\Projects\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\level5.txt
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\ArialBlack30.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\ss.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\level0.txt
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Diamond Miner.exe
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Diamond Miner.pdb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\obj\Debug\Diamond Miner.csprojAssemblyReference.cache
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\obj\Debug\Diamond Miner.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\obj\Debug\Diamond Miner.csproj.CopyComplete
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\obj\Debug\Diamond Miner.exe
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\obj\Debug\Diamond Miner.pdb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\CrateDark_Gray.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\Crate_Blue.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\Crate_Red.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\GroundGravel_Dirt.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\Wall_Black.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\gameover.txt
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\Ground_Grass.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\acquireDiamon.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\acquireDiamon.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\acquireTNT.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\acquireTNT.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\explosion.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\explosion.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\stoneNoise.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\stoneNoise.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\walking.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\walking.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\winLevel.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\winLevel.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\acquireDiamond.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\loosingLife.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\Diamond Miner project\Diamond Miner\Diamond Miner\bin\DesktopGL\AnyCPU\Debug\Content\soundeffects\startedTNT.xnb

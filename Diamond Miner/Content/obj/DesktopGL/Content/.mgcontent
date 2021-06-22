@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/ArialBlack30.spritefont</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/Crate_Blue.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/Crate_Red.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/CrateDark_Gray.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/Ground_Grass.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/GroundGravel_Dirt.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/soundeffects/acquireDiamond.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/soundeffects/acquireTNT.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/soundeffects/explosion.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/soundeffects/loosingLife.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/soundeffects/startedTNT.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/soundeffects/stoneNoise.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/soundeffects/walking.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/soundeffects/winLevel.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/ss.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/Diamond Miner project/Diamond Miner/Diamond Miner/Content/Wall_Black.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
